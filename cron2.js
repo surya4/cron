@@ -1,6 +1,5 @@
 
 const cron = require('node-cron');
-const prometheus = require('@noon/prometheus');
 const moment = require('moment');
 const _ = require('lodash');
 const uuid = require('uuid');
